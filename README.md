@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sara1B
+- 👋 Hi, I’m Sara
 - 👀 I’m interested in all things Data
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data
